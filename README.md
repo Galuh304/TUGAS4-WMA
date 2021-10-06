@@ -1,5 +1,7 @@
 NIM : E41202446
+
 Nama : Galuh Apriliano
+
 Kelas : D
 
 Widget
