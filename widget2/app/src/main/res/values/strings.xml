@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">widget</string>
+    <string-array name="Provinsi">
+        <item>Jawa Timur</item>
+        <item>Jawa Barat</item>
+        <item>Jawa Tengah</item>
+        <item>Kalimantan Timur</item>
+        <item>Sumatera Utara</item>
+        <item>Bali</item>
+    </string-array>
+</resources>
